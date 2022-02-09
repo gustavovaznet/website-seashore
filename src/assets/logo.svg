@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28.185932mm"
+   height="4.844523mm"
+   viewBox="0 0 28.185932 4.844523"
+   version="1.1"
+   id="svg5"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/user/Documentos/Projects/seashore/src/assets/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.4118968"
+     inkscape:cx="76.293478"
+     inkscape:cy="9.5250703"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.663682,-138.79553)">
+    <path
+       d="m 88.992823,139.12467 h 4.212426 v 4.18624 h -4.212426 z"
+       id="path203-9"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.658283;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04954004px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.126239;"
+       x="94.277084"
+       y="142.80203"
+       id="text20314-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan20312-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.126239;stroke-opacity:1;"
+         x="94.277084"
+         y="142.80203">seashore</tspan></text>
+    <path
+       d="m 90.863457,140.74547 -0.793503,1.58088 0.793503,-0.12918 z m -0.793503,1.72237 0.793503,0.39358 1.322437,-0.39358 z"
+       id="path79-4-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0618133;stroke:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 90.992648,139.69341 v 2.50351 l 1.193246,0.12918 -1.193246,-2.63276 z"
+       id="path81-9-9"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0618133;stroke:#ffffff"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

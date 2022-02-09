@@ -1,0 +1,29 @@
+/*NAVIGATION BAR STYLES*/
+.navbg{
+    background-color: #b14d9d;
+}
+
+.brandlogo{    
+    width: 30vh;
+    height: auto;      
+}
+
+.btn-download{
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    min-width: 100px;
+    border-radius: 8px;
+    font-weight: 600;
+    background-color: #b14d9d;    
+    border: 2px solid #fff;
+}
+
+.btn-download:hover{
+    transition: 0.2s;
+    font-weight: 900;
+}

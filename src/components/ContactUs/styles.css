@@ -1,0 +1,55 @@
+/*CONTACTUS CSS*/
+.contact-us{
+    background-color: #b14d9d;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #282828;
+    transition: 0.2s;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.herocard{
+    border-radius: 40px;    
+    width: 30vw;
+    text-align: center;
+    height: 10vh;  
+}
+
+.inputemail{
+    border: none;
+    border-collapse: collapse;
+    width: 20vw;
+}
+
+.inputemail:focus, input:focus{
+    outline: none;
+}
+
+.cardbtn{
+    background-color: black;
+    padding:10px 40px;
+    background-color: #b14d9d;
+	font-family:Arial;
+    font-size:15px;
+    font-weight: bold;
+    border-radius: 20px;    
+}
+
+.cardbtn{
+    box-shadow: none!important;
+}
+
+.cardbtn:active, .cardbtn:focus, .cardbtn:hover{
+    border: none!important;
+    background-color: #b14d9d;
+}
